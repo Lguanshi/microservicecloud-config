@@ -4,7 +4,7 @@
     - dev
 
 ---
-spring
+spring:
   profiles: dev
   application:
     name: microservicecloud-config-gonewind-dev
